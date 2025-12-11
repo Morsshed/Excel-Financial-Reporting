@@ -16,3 +16,32 @@ Business Sales and Financial Reporting
 | **Operating Income**          | Gross Profit minus Operating Expenses.                                     |
 | **Net Profit (or Loss)**      | Final bottom-line figure after all expenses and taxes.                     |
 
+## Sales Vs Target Analysis
+![Sales Performance vs Target Example](https://raw.githubusercontent.com/Morsshed/Excel-Financial-Reporting/main/ExcelImages/Sales%20PerformanceVsTarget.png)
+
+###### Variance
+                       ActualSales - TargetSales
+###### Percent of Target Achieved
+                       ActualSales / TargetSales
+
+### Tables or Metrics
+
+Target Sales — planned or budgeted sales
+
+Actual Sales — what was actually achieved
+
+Difference or Variance — actual minus target
+
+% Achievement — actual ÷ target × 100
+
+🔹 Charts (often included)
+
+Column or Bar Chart: Actual vs Target side by side
+
+Line Chart: Trends over time
+
+Color Coding:
+
+Green when actual ≥ target
+
+Red when actual < target
